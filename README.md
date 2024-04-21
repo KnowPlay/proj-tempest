@@ -33,9 +33,9 @@
       </ul>
     </li>
     <li>
-      <a href="#📋-documentation">Documentation</a>
+      <a href="#🌵-documentation">Documentation</a>
       <ul>
-        <li><a href="#🍏-setup">Setup</a></li>
+        <li><a href="#🍯-setup">Setup</a></li>
         <li><a href="#🍎-development">Development</a></li>
       </ul>
     </li>
@@ -52,7 +52,6 @@
 
 - [ ] 
 - [ ] 
-
 
 ### :mushroom: Features
 

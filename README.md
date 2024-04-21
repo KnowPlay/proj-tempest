@@ -1,9 +1,9 @@
 <!-- PROJECT SUMMARY -->
 <div align="center">
-  <h1 align="center">Project_Title</h1>
+  <h1 align="center">Project Title</h1>
 
   <p align="center">
-    {short project description or subtitle}
+    {short description or subtitle}
     <br>
     <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
     ·
@@ -26,7 +26,11 @@
   <summary><h2 style="display: inline-block">🕹 Table of Content</h2></summary>
   <ol>
     <li>
-      <a href="#⭐-about">About</a>
+      <a href="#🌻-about">About</a>
+      <ul>
+        <li><a href="#🔧-tech-stack">Tech Stack</a></li>
+        <li><a href="#🍄-features">Features</a></li>
+      </ul>
     </li>
     <li>
       <a href="#📋-documentation">Documentation</a>
@@ -35,20 +39,30 @@
         <li><a href="#🍎-development">Development</a></li>
       </ul>
     </li>
-    <li><a href="#🌻-contributing">Contributing</a></li>
-    <li><a href="#📝-license">License</a></li>
+    <li><a href="#🌾-contributing">Contributing</a></li>
+    <li><a href="#📜-license">License</a></li>
   </ol>
 </details>
 
 <!-- ABOUT -->
-## :star: About
+## :sunflower: About
 <!-- Add your project description here -->
 
+### :wrench: Tech Stack
+
+- [ ] 
+- [ ] 
+
+
+### :mushroom: Features
+
+- [ ] 
+- [ ] 
+
 <!-- CONTENT -->
-## :clipboard: Documentation
+## :cactus: Documentation
 
-
-### :green_apple: Setup
+### :honey_pot: Setup
 <!-- Add setup instructions here -->
 
 ### :apple: Development
@@ -58,7 +72,7 @@
 * []()
 
 <!-- CONTRIBUTING -->
-## :sunflower: Contributing
+## :ear_of_rice: Contributing
 <!-- Add contribution guidelines here -->
 > 1. Fork the Project
 > 2. Create your Branch (`git checkout -b my-branch`)

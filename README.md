@@ -3,7 +3,7 @@
   <h1 align="center">Project Title</h1>
 
   <p align="center">
-    {short description or subtitle}
+    {}
     <br>
     <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
     ·
@@ -55,8 +55,15 @@
 
 ### :mushroom: Features
 
+#### :heavy_plus_sign: 
+
 - [ ] 
+- [ ]
+
+#### :heavy_plus_sign: 
+
 - [ ] 
+- [ ]
 
 <!-- CONTENT -->
 ## :cactus: Documentation

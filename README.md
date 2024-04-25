@@ -17,7 +17,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/github_username/repo-name?style=social) ![GitHub stars](https://img.shields.io/github/stars/github_username/repo-name?style=social)
 
 <!-- [![CI](https://github.com/org-name/repo-name/actions/workflows/file-name.yml/badge.svg)](https://github.com/KnowPlay/org-name/repo-name/actions/workflows/file-name.yml) -->
-
+[![CI](https://github.com/KnowPlay/proj-tempest/actions/workflows/push_on_main.yml/badge.svg)](https://github.com/KnowPlay/proj-tempest/actions/workflows/push_on_main.yml)
 ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/github_username/repo-name?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/github_username/repo-name?color=pink) ![GitHub License](https://img.shields.io/github/license/github_username/repo-name?color=green) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)
 
   </div>

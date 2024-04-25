@@ -16,7 +16,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/github_username/repo-name?style=social) ![GitHub stars](https://img.shields.io/github/stars/github_username/repo-name?style=social)
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat) ![GitHub License](https://img.shields.io/github/license/github_username/repo-name?color=green) ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/github_username/repo-name?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/github_username/repo-name?color=pink)
+![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/github_username/repo-name?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/github_username/repo-name?color=pink) ![GitHub License](https://img.shields.io/github/license/github_username/repo-name?color=green) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)
 
   </div>
 </div>
@@ -48,22 +48,33 @@
 ## :sunflower: About
 <!-- Add your project description here -->
 
-### :wrench: Tech Stack
+### :hammer_and_wrench: Tech Stack
+
+#### :heavy_plus_sign: Development Tools
 
 - [ ] 
+
+#### :heavy_plus_sign: Backend
+
+- [ ] 
+
+#### :heavy_plus_sign: Frontend
+
+- [ ] 
+
+#### :heavy_plus_sign: DevOps
+
 - [ ] 
 
 ### :mushroom: Features
 
 #### :heavy_plus_sign: 
 
-- [ ] 
 - [ ]
 
 #### :heavy_plus_sign: 
 
 - [ ] 
-- [ ]
 
 <!-- CONTENT -->
 ## :cactus: Documentation

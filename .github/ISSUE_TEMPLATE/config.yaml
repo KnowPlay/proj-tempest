@@ -67,7 +67,7 @@ issues:
             - [ ] Task 2
             - [ ] Task 3
   - name: 🎨 Feature
-    description: Derive insights from data and/or create user-facing functionalities
+    description: Extract insights from data and/or create user-facing functionalities
     title: "[FEATURE] "
     labels: ["feature"]
     assignees:
@@ -90,7 +90,7 @@ issues:
   - name: 🐞 Bug
     description: File a bug/issue
     title: "[BUG] "
-    labels: ["bug", "needs triage"]
+    labels: ["bug"]
     assignees:
     - ''
     body:
@@ -129,7 +129,7 @@ issues:
             Links? References? Anything that will give us more context about the issue that you are encountering!
             -->
   - name: 📖 Documentation
-    description: Document the setup and usage
+    description: Document setup and usage and improve README.
     title: "[DOCUMENTATION] "
     labels: ["documentation"]
     assignees:
@@ -148,3 +148,30 @@ issues:
             **Acceptance Criteria:**
             - [ ] Document setup instructions, virtual environment setup, package installation, and script execution
             - [ ] Add detailed when necessary
+  - name: 🚀 Deployment
+    description: Deployment an app so it's accessible and functional.
+    title: "[DEPLOYMENT] "
+    labels: ["deployment"]
+    assignees:
+    - ''
+    body:
+      - type: markdown
+        attributes:
+          value: |
+            **As an** analyst and/or developer  
+            **I need** to deploy
+            **So that** the app is accessible and functional
+            
+            **Assumptions:** 
+            * The repository contains all necessary files.
+            * The deployment platform account is set up.
+            
+            **Acceptance Criteria:**
+            - [ ] Verify that the main application script is correctly named (e.g., `app.py` for Streamlit, `main.py` for other platforms).
+            - [ ] Deploy the app and verify it is accessible and functional.
+
+
+
+
+
+          

@@ -2,7 +2,7 @@
 name: 🚀 Deployment
 about: Deployment an app so it's accessible and functional.
 title: '[DEPLOYMENT]'
-labels: 'feature', 'deployment'
+labels: 'feature'
 assignees: ''
 
 ---

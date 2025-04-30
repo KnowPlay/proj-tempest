@@ -103,7 +103,9 @@
 <!-- LICENSE -->
 ## :pencil: License
 <!-- Add license information here -->
-This project is licensed under [MIT](https://opensource.org/licenses).
+This project is licensed under [LICENSE](https://opensource.org/licenses).
+
+<!-- Gratitude to [source]() for the inspiration and insights. -->
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements -->

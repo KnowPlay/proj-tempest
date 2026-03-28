@@ -3,6 +3,38 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# environment
+.venv/
+.env
+
+# data — never commit raw source files
+data/raw/
+
+# database
+*.db
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# testing & coverage
+.coverage
+coverage*.xml
+coverage*.json
+htmlcov/
+
+# os
+.DS_Store
+
+# editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+*.code-workspace
 # User-specific files
 *.DS_Store
 *.history
@@ -15,7 +47,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Mono auto generated files
+# Mono auto-generated files
 mono_crash.*
 
 # Build results
@@ -39,7 +71,7 @@ bld/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
-# Visual Studio 2017 auto generated files
+# Visual Studio 2017 auto-generated files
 Generated\ Files/
 
 # MSTest test Results
@@ -144,9 +176,7 @@ _TeamCity*
 .axoCover/*
 !.axoCover/settings.json
 
-# Coverlet is a free, cross platform Code Coverage Tool
-coverage*.json
-coverage*.xml
+# Coverlet is a free, cross-platform Code Coverage Tool
 coverage*.info
 
 # Visual Studio code coverage results
@@ -304,8 +334,6 @@ node_modules/
 *.dsp
 
 # Visual Studio 6 technical files
-*.ncb
-*.aps
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
@@ -326,8 +354,6 @@ paket-files/
 .cr/personal
 
 # Python Tools for Visual Studio (PTVS)
-__pycache__/
-*.pyc
 
 # Cake - Uncomment if you are using it
 # tools/**
@@ -379,15 +405,8 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
 
 # Local History for Visual Studio Code
-.history/
 
 # Windows Installer files from build outputs
 *.cab
